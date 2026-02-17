@@ -7,7 +7,7 @@ history as an outcome of the
 AnnotationDbi defines a significant collection of database schemas with
 the overall strategy depicted here, in a figure from an AnnotationDbi vignette.
 
-![](man/figures/AnnoDbi.png)
+<img src="https://raw.githubusercontent.com/vjcitn/GO.db2/fbf46341c64c1188cb0c0d082ccb3c7adce5ae42/man/figures/AnnoDbi.png" width="400px"/>
 
 Many changes have occurred since the production of AnnotationDbi.
 
